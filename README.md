@@ -4,6 +4,12 @@
 
 The following repository contains the final project submission for the course ENPM 809k - Fundamentals for Artificial Intelligence and Deep Learning Framework. This was worked on as a team of 3.
 
+## Project Members
+
+- Jai Sharma
+- Qamar Syed
+- Tej Kiran Reddy 
+
 ## Abstract
 
 In this project we use a transformer based neural network to create a chatbot pipeline to perform the following tasks:
