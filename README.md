@@ -21,8 +21,8 @@ In this project we use a transformer based neural network to create a chatbot pi
 To achieve this task we will train two separate neural networks to predict user emotion and chatbot response and respective robot emotion. The AI pipeline takes in the user dialogue, predicts an user emotion and forwards the emotion and dialogue to the chatbot NN to find the response and bot’s emotion. 
 
 The details of the project can be found in the following documents:
-- [report]()
-- [presentaion]()
+- [report](https://github.com/jaisharma10/ENPM809k_chatbot/blob/main/ENPM809K%20-%20Final%20Project%20Report.pdf)
+- [presentation](https://github.com/jaisharma10/ENPM809k_chatbot/blob/main/ENPM809K%20Final%20Project%20Presentation%20.pdf)
 
 ## Chatbot Pipeline
 
